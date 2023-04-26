@@ -29,6 +29,7 @@ function App() {
       </Routes>
     </BrowserRouter>
   );
+  <p>simple</p>
 }
 
 export default App;
